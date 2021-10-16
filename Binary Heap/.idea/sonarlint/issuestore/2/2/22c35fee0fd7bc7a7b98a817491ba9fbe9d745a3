@@ -1,0 +1,44 @@
+
+^	java:S125µ"<This block of commented-out lines of code should be removed.(ç¼ æùÿÿÿÿ8š–ÛğÏ.
+^	java:S125É"<This block of commented-out lines of code should be removed.(ü¸æ‚ûÿÿÿÿ8š–ÛğÏ.
+Z	java:S106|"9Replace this use of System.out or System.err by a logger.(Ë›â­üÿÿÿÿ8ØÔÒïÏ.
+^	java:S125Õ"<This block of commented-out lines of code should be removed.(‚ÎÁ¯şÿÿÿÿ8š–ÛğÏ.
+p
+java:S3776î"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(œû¿Ø8š–ÛğÏ.
+?	java:S131„""Add a default case to this switch.(Šïƒº8ØÔÒïÏ.
+X	java:S125,"<This block of commented-out lines of code should be removed.(‰Õ€´8ØÔÒïÏ.
+V	java:S106Ù"9Replace this use of System.out or System.err by a logger.(Ï†æ°8š–ÛğÏ.
+X	java:S125·"<This block of commented-out lines of code should be removed.(Èûƒ<8š–ÛğÏ.
+\
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8Ò’ÓïÏ.
+V	java:S106ê"9Replace this use of System.out or System.err by a logger.(¦„²Å8ØÔÒïÏ.
+X	java:S125}"<This block of commented-out lines of code should be removed.(õ™‘Ë8ØÔÒïÏ.
+V	java:S106†"9Replace this use of System.out or System.err by a logger.(‚ÓÈª8ØÔÒïÏ.
+^	java:S125¹"<This block of commented-out lines of code should be removed.(°ƒõÛüÿÿÿÿ8ØÔÒïÏ.
+T	java:S1062"9Replace this use of System.out or System.err by a logger.(®»Á]8ØÔÒïÏ.
+s
+java:S3457|"Q%n should be used in place of \n to produce the platform-specific line separator.(Ë›â­üÿÿÿÿ8ØÔÒïÏ.
+X	java:S125â"<This block of commented-out lines of code should be removed.(Îî{8÷ÂÜğÏ.
+Y	java:S125Œ"<This block of commented-out lines of code should be removed.(è¡™´8ØÔÒïÏ.
+R
+java:S1066¥"/Merge this if statement with the enclosing one.(ÉÄŞ¾ûÿÿÿÿ8ØÔÒïÏ.
+^	java:S125Ì"<This block of commented-out lines of code should be removed.(õÃÌ•úÿÿÿÿ8ØÔÒïÏ.
+^	java:S125ˆ"<This block of commented-out lines of code should be removed.(´£ç‚øÿÿÿÿ8ØÔÒïÏ.
+Y	java:S125Â"<This block of commented-out lines of code should be removed.(êáÚ8š–ÛğÏ.
+^	java:S125Ú"<This block of commented-out lines of code should be removed.(Û´Îûøÿÿÿÿ8ØÔÒïÏ.
+M
+java:S1066±"/Merge this if statement with the enclosing one.(œÄÏª8š–ÛğÏ.
+]	java:S1251"<This block of commented-out lines of code should be removed.(õ†¦¡ùÿÿÿÿ8ØÔÒïÏ.
+Y	java:S125 "<This block of commented-out lines of code should be removed.(ÁÛ±¡8ØÔÒïÏ.
+u	java:S127ä"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8ØÔÒïÏ.
+o
+java:S3776C"RRefactor this method to reduce its Cognitive Complexity from 68 to the 15 allowed.(¯ŞÛó8ØÔÒïÏ.
+v
+java:S2293£"YReplace the type specification in this constructor call with the diamond operator ("<>").(ûˆ~8š–ÛğÏ.
+Y	java:S125ª"<This block of commented-out lines of code should be removed.(•—ô8š–ÛğÏ.
+L
+java:S1066ª"/Merge this if statement with the enclosing one.(½æÌ!8ØÔÒïÏ.
+]	java:S125"<This block of commented-out lines of code should be removed.(½õ˜§ûÿÿÿÿ8ØÔÒïÏ.
+w
+java:S2293ú"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ë¦²·8ØÔÒïÏ.
+^	java:S125¬"<This block of commented-out lines of code should be removed.(«ÖÈÏıÿÿÿÿ8ØÔÒïÏ.
